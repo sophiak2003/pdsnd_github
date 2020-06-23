@@ -1,13 +1,17 @@
+## Sophia's Project 3 on Git
+
 ### Date created
 *This project was created on 06/23/2020.*
-
-### Sophia's Project 3 on Git
 
 ### Description
 This project demonstrates my skills on Git and Github.
 
 ### Files used
-Include the files used
+* bikeshare.py
+* README.md
+* files hidden with gitignore:
+  * chicago.csv
+  * new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I only used the tools and documents provided by Udacity.
