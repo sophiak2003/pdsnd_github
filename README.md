@@ -4,7 +4,7 @@
 ### Sophia's Project 3 on Git
 
 ### Description
-Describe what your project is about and what it does
+This project demonstrates my skills on Git and Github.
 
 ### Files used
 Include the files used
