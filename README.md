@@ -1,8 +1,7 @@
 ### Date created
 *This project was created on 06/23/2020.*
 
-### Project Title
-Replace the Project Title
+### Sophia's Project 3 on Git
 
 ### Description
 Describe what your project is about and what it does
